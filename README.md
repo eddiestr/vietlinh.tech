@@ -2,9 +2,9 @@
 Clone repository này về. Bạn cần phải cài đặt `node.js` và `git` trên máy tính của bạn.
 
 ## 🛠Hướng dẫn cài đặt và thiết lập
-1. Cài đặt: `npm install`
-2. Trong thư mục dự án, bạn có thể chạy: `npm start`
- Chạy ứng dụng ở chế độ phát triển.
+1. Cài đặt: `npm install`<br/>
+2. Trong thư mục dự án, bạn có thể chạy: `npm start`<br/>
+ Chạy ứng dụng ở chế độ phát triển.<br/>
  Mở [http://localhost:3005](http://localhost:3005) để xem nó trên trình duyệt. <br/>
  Nếu port bị trùng thì sửa lại trong file `.env`. <br/>
  Trang sẽ được tải lại nếu bạn thực hiện chỉnh sửa. <br/>
